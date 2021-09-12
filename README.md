@@ -7,5 +7,5 @@
 - numpy Version: 1.12.1
 - torch Version: 0.4.0
 - pickle.
-- collections Version
+- collections
 - Needs to GPU in the training
